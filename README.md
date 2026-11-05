@@ -35,4 +35,4 @@ Android 앱과 Django 서버 간 통신 기능 개발 및 테스트 참여
 기능 연동 과정에서 발생한 오류 점검 및 수정
 
 🔗 관련 저장소
-SPot Android App(https://github.com/gyominKim/SPot-project)
+[SPot Android App](https://github.com/gyominKim/SPot-project-App-)
