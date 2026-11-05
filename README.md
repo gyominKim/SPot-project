@@ -28,6 +28,7 @@ BeautifulSoup을 활용한 식물 생육 정보 추출
 6. 상세 정보 조회 API를 통해 Android 앱에 식물 정보 제공
 
 👥 개발 참여 및 담당 역할
+
 Python과 BeautifulSoup을 활용한 초기 크롤링 기능 구현
 팀원과 협력하여 Selenium 기반 웹 크롤링 기능 개발
 Android 앱과 Django 서버 간 통신 기능 개발 및 테스트 참여
